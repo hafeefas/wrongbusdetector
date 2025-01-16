@@ -7,7 +7,7 @@
     "strict": true,
     "noEmit": true,
     "esModuleInterop": true,
-    "types": ["@types/crhome"],
+    "types": ["@types/chrome"],
     "module": "esnext",
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
